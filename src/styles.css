@@ -36,6 +36,13 @@ hr {
     height: 50px;
 }
 
+th{
+    color: white;
+}
+
+td{
+    color: white;
+}
 
 /* Animaciones */
 
